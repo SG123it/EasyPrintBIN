@@ -1,0 +1,10 @@
+EasyPrint.exe
+EasyPrint_LAUNCHER.exe
+Error_codes_EN.json
+file_list.txt
+icon.ico
+libcpr.dll
+libwinpthread-1.dll
+PDFtoPrinter_m.exe
+readme.md
+Version.txt
