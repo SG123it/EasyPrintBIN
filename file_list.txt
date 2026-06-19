@@ -3,8 +3,11 @@ EasyPrint_LAUNCHER.exe
 Error_codes_EN.json
 file_list.txt
 icon.ico
+libbrotlidec.dll
 libcpr.dll
 libcurl-4.dll
+libidn2-0.dll
+libnghttp2-14.dll
 libwinpthread-1.dll
 licence.md
 PDFtoPrinter_m.exe
