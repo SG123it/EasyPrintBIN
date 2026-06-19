@@ -2,7 +2,7 @@
   "01": "Configuration file not found. The error occurs when calling JSON_worker::LoadJSONTags with a filename that does not exist.",
   "02": "Failed to create the configuration file. Usually happens when the program does not have enough permissions to create the file. Try running the program as Administrator or move the executable to another folder.",
   "03": "Failed to read the configuration file. The error occurs for unknown reasons.",
-  "04": "Unsupported file type. The error is triggered when determining a file extension causes the program to call the wrong printing method.",
+  "04": "The file extension is empty",
   "05": "Corrupted configuration. The error appears when, for some reason, the program could not load all parameters from the file. If restarting the program does not help, contact the developer.",
   
   "11": "Unable to check for updates because the program could not open Version.txt.",
