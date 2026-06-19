@@ -5,6 +5,7 @@ file_list.txt
 icon.ico
 libcpr.dll
 libwinpthread-1.dll
+licence.md
 PDFtoPrinter_m.exe
 readme.md
 version.txt
