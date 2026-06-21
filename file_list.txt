@@ -1,3 +1,4 @@
+AUTHORS.txt
 EasyPrint.exe
 EasyPrint_LAUNCHER.exe
 Error_codes_EN.json
