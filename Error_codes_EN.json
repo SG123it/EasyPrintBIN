@@ -6,7 +6,7 @@
   "05": "Corrupted configuration. The error appears when, for some reason, the program could not load all parameters from the file. If restarting the program does not help, contact the developer.",
   "11": "Unable to check for updates because the program could not open Version.txt.",
   "12": "Unable to check for updates because the local Version.txt is empty.",
-  "13": "Unable to check for updates because there is no internet connection (HTTP status code != 200).",
+  "13": "Free", 
   "14": "Unable to check for updates because Version.txt on GitHub is empty.",
   "15": "Unable to check for updates because the program failed to convert strings to numbers.",
   "16": "Failed to create the file for downloading updates.",
