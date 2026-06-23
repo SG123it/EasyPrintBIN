@@ -9,6 +9,7 @@ libbrotlidec.dll
 libcpr.dll
 libcrypto-3-x64.dll
 libcurl-4.dll
+libcurl.dll
 libiconv-2.dll
 libidn2-0.dll
 libintl-8.dll
