@@ -29,5 +29,5 @@ libzstd.dll
 licence.md
 PDFtoPrinter_m.exe
 readme.md
-version.txt
+Version.txt
 zlib1.dll
