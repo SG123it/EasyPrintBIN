@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Easyprint - Your distance print helper</h1>
+<h1 style="text-align: center;">Easyprint - Your conductor between printer and PC</h1>
 
 <br><br>
 
@@ -49,8 +49,10 @@
 <li> 18 - Не удалось найти файл в целевой папке (targer folder)
 <li> 19 - Программа запустилась для другого расширения файла
 <li> 20 - Не удалось найти pandoc
-<li> 21 - Не удалось конвертировать файл в Pdf
+
+<li> 21 - Не удалось конвертировать файл в pdf
 <li> 22 - функция для печати специфичных файлов для этого расширения не определена
+
 </ul>
 
 <b>Launcher</b>
