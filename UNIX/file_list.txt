@@ -1,0 +1,15 @@
+AUTHORS.txt
+EasyPrint
+EasyPrint_LAUNCHER
+Error_codes_EN.json
+Version.txt
+file_list.txt
+icon.ico
+libcpr.so
+libcpr.so.1
+libcpr.so.1.14.2
+libcurl.so
+libcurl.so.4
+libcurl.so.4.8.0
+licence.md
+readme.md
