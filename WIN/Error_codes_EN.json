@@ -17,6 +17,9 @@
   "19": "Program launched function for another extension!",
 
   "20": "The function for printing specific files for this extension is not defined.",
-  "21": "Unable to start printing (PowerShell Start-Process returned a non-zero exit code)."
+  "21": "Unable to start printing (PowerShell Start-Process returned a non-zero exit code).",
+
+
+  "190": "Critical error! Reboot available"
 }
 
