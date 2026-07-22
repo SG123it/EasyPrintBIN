@@ -10,7 +10,7 @@
   "13": "Unable to check for updates because there is no internet connection (HTTP status code != 200).",
   "14": "Unable to check for updates because Version.txt on GitHub is empty.",
   "15": "Unable to check for updates because the program failed to convert strings to numbers.",
-  "16": "Failed to create the file where updates are downloaded.",
+  "16": "The file could not be created.",
 
   "17": "File extension is empty!.",
   "18": "Unable to find the file in the target folder!",
